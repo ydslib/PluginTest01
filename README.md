@@ -1,0 +1,2 @@
+# PluginTest01
+启动没有在Manifest中注册的Activity
